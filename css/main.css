@@ -664,7 +664,7 @@ body{
 }
 .easy-fast img{
   padding-right: 20px;
-  float:left; /* обтекание картинки текстом справа */
+  float:left;
 }
 
 .easy-fast-margin{
